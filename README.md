@@ -6,52 +6,25 @@
 > 
 > 如果你能够学会飞翔，何必像其他人一样奔跑？你是要当一辈子懦夫，还是要当英雄，哪怕只有几分钟？
 
-* [在线阅读](https://w3w.apachecn.org)
-* [在线阅读（Gitee）](https://apachecn.gitee.io/doc-template/)
-* [ApacheCN 学习资源](http://docs.apachecn.org/)
-
-## 贡献指南
-
-请通过 ISSUE 提交想要收录的文章，负责人看到后就会处理。
-
-## 联系方式
-
-### 负责人
-
-* [飞龙](https://github.com/wizardforcel): 562826179
-
-### 其他
-
-*   在我们的 [apachecn/apachecn-web3-wiki](https://github.com/apachecn/apachecn-web3-wiki) github 上提 issue.
-*   发邮件到 Email: `apachecn@163.com`.
-*   在我们的 [组织学习交流群](https://www.apachecn.org/#/docs/join) 中联系群主/管理员即可.
-
+* [在线阅读](https://w3w.flygon.net)
 ## 下载
 
 ### Docker
 
 ```
-docker pull apachecn0/apachecn-web3-wiki
-docker run -tid -p <port>:80 apachecn0/apachecn-web3-wiki
-# 访问 http://localhost:{port} 查看文档
-```
-
-### PYPI
-
-```
-pip install apachecn-web3-wiki
-apachecn-web3-wiki <port>
+docker pull apachecn0/flygon-web3-wiki
+docker run -tid -p <port>:80 apachecn0/flygon-web3-wiki
 # 访问 http://localhost:{port} 查看文档
 ```
 
 ### NPM
 
 ```
-npm install -g apachecn-web3-wiki
-apachecn-web3-wiki <port>
+npm install -g flygon-web3-wiki
+flygon-web3-wiki <port>
 # 访问 http://localhost:{port} 查看文档
 ```
 
-## 赞助我们
+## 赞助我
 
-![](http://data.apachecn.org/img/about/donate.jpg)
+![](https://img-blog.csdnimg.cn/20200112005920729.png)
